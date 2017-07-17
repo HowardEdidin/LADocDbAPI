@@ -22,7 +22,7 @@ Microsoft Azure's DocumentDB is a great PaaS NoSQL database. Currently, there is
 - Support for Change Feed
 
 
-- ##**Support for multiple Partition Keys in all operations**##
+- ## **Support for multiple Partition Keys in all operations**##
 
 ----------
 
@@ -40,7 +40,7 @@ You will need to modify the Web.Config file as shown below:
 ``` 
 
 
-###Requirements
+### Requirements
 - DocumentDB Account
   - Creatation of one Database
 
