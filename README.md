@@ -1,4 +1,4 @@
-#DocumentDB HL7 FHIR Api Connector
+# DocumentDB HL7 FHIR Api Connector
 
 Microsoft Azure's DocumentDB is a great PaaS NoSQL database. Currently, there isn't a Microsoft DocumentDB Api that can be used efficiently within a Logic App.
 
@@ -56,4 +56,4 @@ You will need to modify the Web.Config file as shown below:
 ----------
 
 
-Copyright © 2017, VNB Consulting, Inc
+
