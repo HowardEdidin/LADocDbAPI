@@ -56,11 +56,7 @@ namespace LADocDbAPI
                                 "- Execute StoredProcedure  \r\n" +
                                 "- Convert DateTime to Unix format \r\n" +
                                 "- List Procedures Id's in a collection \r\n"
-                        )
-                        .Contact(cc => cc
-                            .Name("VNB Consulting, Inc") 
-                            .Email("Howard.Edidin@vnbconsulting.com") 
-                            .Url("http://www.vnbconsulting.com"));
+                        ));
 
                     c.ReleaseTheTRex();
 
