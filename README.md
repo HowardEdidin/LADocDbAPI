@@ -19,9 +19,7 @@
 - Convert DateTime to Unix format
 - Create new Collection
 - Support for Change Feed
-
-
-- ## **Support for multiple Partition Keys in all operations** ##
+- Support for multiple Partition Keys in all operations
 
 ----------
 
